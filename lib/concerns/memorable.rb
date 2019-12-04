@@ -5,4 +5,5 @@ module Memorable
   end 
   
   def count
+  end 
 end 
